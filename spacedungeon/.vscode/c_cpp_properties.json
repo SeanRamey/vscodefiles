@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+					 "${workspaceFolder}/**",
+					 "${workspaceFolder}/src/**",
+					 "${workspaceFolder}/src/entities/**",
+					 "${workspaceFolder}/src/entities/weapons/**",
+					 "${workspaceFolder}/src/gamestate/**",
+					 "${workspaceFolder}/UI/**",
+					 "${workspaceFolder}/unit-tests/**",
+					 "${workspaceFolder}/util/**",
+					 "${workspaceFolder}/**"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/g++",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "gcc-x64"
+        }
+    ],
+    "version": 4
+}
